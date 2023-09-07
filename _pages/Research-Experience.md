@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Experience"
-permalink: /Research-Experience/
+permalink: /Research Experience/
 author_profile: true
 ---
 1.Critical Performance Evaluation of Support Grant for Compulsory Education in Urban and Rural areas in Hubei Province(Investigator Prof.Yunhua Xiang)<br>
