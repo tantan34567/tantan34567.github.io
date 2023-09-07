@@ -13,7 +13,7 @@ I'm currently a first year PhD student at the Department of Public and Internati
 Under the guidance of my supervisor [Prof. Yanto Chandra](https://scholars.cityu.edu.hk/en/persons/yanto-chandra(2be9ef32-a451-459d-a67a-b52b93451de8).html), I will enjoy a fulfilling, arduous, and challenging four years at CityU.
 
 
-# Education 
+# Education background
 **Sep 2023 - Now:** City University of Hongkong (Phd student)
 
 **Sep 2020 - June 2023:** Wuhan University (Master in Public Management)
@@ -30,6 +30,6 @@ My research interests focus on digital governance, AI-enabled government service
 As the digital era approaches, governments are facing new challenges and opportunities. 
 I am interested in how advanced technologies and AI can be utilised to improve government governance and public services.
  
-
-
+# Contact me
+jianxitan3-c@my.cityu.edu.hk
 
