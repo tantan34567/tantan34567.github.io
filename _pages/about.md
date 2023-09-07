@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* Here is Jianxiang Tan(谭健翔).
+Here is Jianxiang Tan(谭健翔).
 
 I'm currently a first year PhD student at the Department of Public and International Affairs, City University of Hong Kong. 
 Under the guidance of my supervisor [Prof. Yanto Chandra](https://scholars.cityu.edu.hk/en/persons/yanto-chandra(2be9ef32-a451-459d-a67a-b52b93451de8).html)., I will enjoy a fulfilling, difficult, and challenging four years at CityU.
@@ -15,14 +15,15 @@ Under the guidance of my supervisor [Prof. Yanto Chandra](https://scholars.cityu
 
 # Education 
 **Sep 2023 - Now:** City University of Hongkong(Phd student)
-**Sep 2020 - June 2023:**  Wuhan University (Master in Public Management)     
+**Sep 2020 - June 2023:**  Wuhan University (Master in Public Management)
 **Sep 2016 - June 2020:**  Nankai University (Bachelor in Social Work)
 
 
 # Research interests
-- Digital Governance
-- AI-Enabled Government Services
-- AI-Driven Decision Support Systems  
+Digital Governance
+AI-Enabled Government Services
+AI-Driven Decision Support Systems
+
 My research interests focus on digital governance, AI-enabled government services, and AI-driven decision support systems. 
 As the digital era approaches, governments are facing new challenges and opportunities. 
 I am interested in how advanced technologies and AI can be utilised to improve government governance and public services.
