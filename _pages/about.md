@@ -22,9 +22,9 @@ Under the guidance of my supervisor [Prof. Yanto Chandra](https://scholars.cityu
 
 
 # Research interests
-Digital Governance
-AI-Enabled Government Services
-AI-Driven Decision Support Systems
+-Digital Governance
+-AI-Enabled Government Services
+-AI-Driven Decision Support Systems
 
 My research interests focus on digital governance, AI-enabled government services, and AI-driven decision support systems. 
 As the digital era approaches, governments are facing new challenges and opportunities. 
