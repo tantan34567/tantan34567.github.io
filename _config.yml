@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiahao Wang"
+title                    : "Jianxiang Tan"
 title_separator          : "-"
-name                     : &name "Jiahao Wang"
-description              : &description "CS PhD Student at JHU."
-url                      : https://JiahaoPlus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jianxiang Tan"
+description              : &description "PhD Student at CityU."
+url                      : https://tantan34567.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JiahaoPlus/JiahaoPlus.github.io"
+repository               : "tantan34567/tantan34567.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiahao Wang"
+  name             : "Jianxiang Tan"
   avatar           : "bio-photo-0.jpg"
-  bio              : "Build intelligent machine for human well-being."
-  location         : "Baltimore, US"
+  bio              : "Time tries all."
+  location         : "Hongkong, China"
   employer         :
   googlescholar    :
-  email            : "jiahaowg@gmail.com"
+  email            : "jianxitan3-c@my.cityu.edu.hk"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,13 +94,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JiahaoPlus"
+  github           : "tantan34567"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/jiahaowg/
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : # https://www.linkedin.com/in/jiahaowg/
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
