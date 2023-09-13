@@ -14,7 +14,7 @@ Under the guidance of my supervisor [Prof. Yanto Chandra](https://scholars.cityu
 
 
 # Education background
-**Sep 2023 - Now:** City University of Hongkong (Phd student)
+**Sep 2023 - Now:** City University of Hongkong (PhD student)
 
 **Sep 2020 - June 2023:** Wuhan University (Master in Public Management)
 
@@ -28,7 +28,7 @@ Under the guidance of my supervisor [Prof. Yanto Chandra](https://scholars.cityu
 
 My research interests focus on digital governance, AI-enabled government services, and AI-driven decision support systems. 
 As the digital era approaches, governments are facing new challenges and opportunities. 
-I am interested in how advanced technologies and AI can be utilised to improve government governance and public services.
+I am interested in how advanced technologies and AI can be utilized to improve government governance and public services.
  
 # Contact me
 jianxitan3-c@my.cityu.edu.hk
