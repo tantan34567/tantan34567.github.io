@@ -9,7 +9,7 @@ redirect_from:
 ---
 Here is Jianxiang Tan.
 
-I'm currently a first year PhD student at the Department of Public and International Affairs, City University of Hong Kong. 
+I'm currently a second year PhD student at the Department of Public and International Affairs, City University of Hong Kong. 
 Under the guidance of my supervisor [Prof. Yanto Chandra](https://scholars.cityu.edu.hk/en/persons/yanto-chandra(2be9ef32-a451-459d-a67a-b52b93451de8).html), I will enjoy a fulfilling, arduous, and challenging four years at CityU.
 
 
