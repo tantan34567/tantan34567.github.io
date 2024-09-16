@@ -4,6 +4,6 @@ title: "Activities"
 permalink: /activities/
 author_profile: true
 --- 
-Course studying <br>
+Teaching assistant <br>
  
 
